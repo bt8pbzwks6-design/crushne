@@ -8,7 +8,7 @@ const questionPrompt = document.querySelector(".question-prompt"); // Thêm đo�
 yesBtn.addEventListener("click", () => {
   question.innerHTML = "zay a thừa nhận e xink gòi á nhaa🥰😘";
   gif.src =
-    "https://pin.it/4TEouhcjR";
+    "https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyajhocmh0aDVrNm81amE2azk4aWpmazJ5MXJvbnVpdTRyb2RvMjRrbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/125E8v90blHqtr4HrB/giphy.gif";
 
   // Ẩn cả hai nút Yes và No
   yesBtn.style.display = "none";
