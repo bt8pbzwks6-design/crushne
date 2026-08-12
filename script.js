@@ -6,9 +6,9 @@ const noBtn = document.querySelector(".no-btn");
 const questionPrompt = document.querySelector(".question-prompt"); // Thêm đoạn này
 
 yesBtn.addEventListener("click", () => {
-  question.innerHTML = "Anh đúng là đồ tòyyyyyyy 🥺<br>dỗiiii x10000000";
+  question.innerHTML = "zay a thừa nhận e xink gòi á nhaa🥰😘";
   gif.src =
-    "https://media.giphy.com/media/vvc1dJPLEU2QOw9cXy/giphy.gif";
+    "https://i.pinimg.com/736x/8a/a3/6e/8aa36e1c0c1b48981efcd4d53edeb8f3.jpg⁠";
 
   // Ẩn cả hai nút Yes và No
   yesBtn.style.display = "none";
